@@ -2,7 +2,7 @@ This is a student project, which was bootstrapped with [Create React App](https:
 
 # Real-time chat app
 
-> This is a Real-time app using React on the frontend development and [Socket.io](https://socket.io/) & [Node.js](https://nodejs.org/en/)  on the backend development.
+> This is a Real-time app using React on the frontend development and [Socket.io](https://socket.io/) & [Node.js](https://nodejs.org/en/) on the backend development.
 
 ![Screenshot 2020-06-03 at 17 13 43](https://user-images.githubusercontent.com/46029164/83661314-d2aa4e80-a5bd-11ea-9d8e-290a174f7280.png)
 
